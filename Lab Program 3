@@ -1,0 +1,10 @@
+#Install and set up scikit-learn and other neccessary tools.
+import sklearn
+import numpy
+import pandas
+import matplotlib
+print(sklearn.__version__)
+print("scikit-learn installation path:",sklearn.__file__)
+print(numpy.__version__)
+print(pandas.__version__)
+print(matplotlib.__version__)
