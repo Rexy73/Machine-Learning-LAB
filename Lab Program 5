@@ -1,4 +1,4 @@
-#lab Program 5
+#Write a program to Visualize the dataset to gain insights using Matplotlib or Seaborn by plotting scatter plots, bar charts.
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
